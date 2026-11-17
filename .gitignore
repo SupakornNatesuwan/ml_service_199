@@ -1,0 +1,15 @@
+
+model/
+*.pkl
+*.joblib
+*.h5
+
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+
+.DS_Store
+.vscode/
